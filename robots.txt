@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://reecekeller.github.io/al-folio/sitemap.xml
+Sitemap: https://reecekeller.github.io/sitemap.xml
